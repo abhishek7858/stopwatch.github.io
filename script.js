@@ -66,7 +66,7 @@ function timer(){
 
 
 		inc.innerHTML=hours+":"+minutes+":"+sec;
-				setTimeout("timer()",1000)
+				setTimeout("timer()",16)
 
 				
 	}
